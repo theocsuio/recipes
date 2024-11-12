@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
 * avodcado
-* lemon
+* lime
 * salt
 ## Instructions
 
