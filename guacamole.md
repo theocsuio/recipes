@@ -8,3 +8,4 @@
  * peel the avocados
  * squeeze the lime
  * smash the avocados
+ * mix well
